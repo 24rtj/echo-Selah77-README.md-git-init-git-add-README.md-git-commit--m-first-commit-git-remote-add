@@ -1,0 +1,72 @@
+From 1a102488a44027eeef5870e879a1fa15ecb07533 Mon Sep 17 00:00:00 2001
+From: Xbnxb <24rtj@users.noreply.github.com>
+Date: Wed, 4 Mar 2020 17:23:46 +0300
+Subject: [PATCH] text.txt import-202003041716.lo-080711b.pa imp
+
+---
+ import-202003041716.lo-080711b.patch | 37 +++++++++++++++++++++++++++++++++++++
+ text.txt                             | Bin 0 -> 343 bytes
+ 2 files changed, 37 insertions(+)
+ create mode 100644 import-202003041716.lo-080711b.patch
+ create mode 100644 text.txt
+
+diff --git a/import-202003041716.lo-080711b.patch b/import-202003041716.lo-080711b.patch
+new file mode 100644
+index 0000000..b8d1218
+--- /dev/null
++++ b/import-202003041716.lo-080711b.patch
+@@ -0,0 +1,37 @@
++From 080711bad37202e92080dc83f66e98211c3b0054 Mon Sep 17 00:00:00 2001
++From: Xbnxb <24rtj@users.noreply.github.com>
++Date: Wed, 4 Mar 2020 17:17:23 +0300
++Subject: [PATCH] import-202003041716.lo
++
++---
++ import-202003041716.log | 18 ++----------------
++ 1 file changed, 2 insertions(+), 16 deletions(-)
++
++diff --git a/import-202003041716.log b/import-202003041716.log
++index 47d8569..a537cc6 100644
++--- a/import-202003041716.log
+++++ b/import-202003041716.log
++@@ -1,16 +1,2 @@
++-echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1
++-
++-reference 'refs/heads/master' not found
++-echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1 (2)
++-
++-reference 'refs/heads/master' not found
++-echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1 (3)
++-
++-reference 'refs/heads/master' not found
++-echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1 (4)
++-
++-reference 'refs/heads/master' not found
++-echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: No more authentication methods.
++-
++-The operation couldn’t be completed. (Git error -7.)
++-Interpreting last error as: SSH connection rejected. Make sure SSH key is valid on github.com.
++\ No newline at end of file
+++Cloning from git@github.com:24rtj/echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add.git
+++Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1
++\ No newline at end of file
++--
++Working Copy 4.0.8
++
+diff --git a/text.txt b/text.txt
+new file mode 100644
+index 0000000000000000000000000000000000000000..ccca05e0fe83a5bdc63f5191f9a332b28c5373e5
+GIT binary patch
+literal 343
+zc${5M%SyvQ6uqgh8WmfYg1c;7Ofs3oBz0G?3-JM(Diws1Or~Z^k_nTk;LerbA%2Me
+zAoxK}tO$A*_uTWiaMQZrjl%fT=&Y=+t#6nU>ygQZi|WowB+a>2V@rv8Vu^IlsA~4W
+zczK=nb}!>I_QbN`PwAt(IhI1GXX9;a`^KskMKSHY^RgCFA%Y3U9`@bP4eUagX0BA-
+z96QbfSNS5fsVE)dOEq^G%>{~Ck>p{Bu1CX@i;-PsNcRx0^k|nP%l<|BzSM+DG~=@Q
+z)omnMDHLmOoTcmF2#2nlCYcxNzu16iBcqWw3j#KXi0e`>#rViKP3S@&_Q8TfAP~YS
+WoWm8wa0~bFjgGNo*nvMV4!!`}dtK!K
+
+literal 0
+Hc$@<O00001
+
+--
+Working Copy 4.0.8
