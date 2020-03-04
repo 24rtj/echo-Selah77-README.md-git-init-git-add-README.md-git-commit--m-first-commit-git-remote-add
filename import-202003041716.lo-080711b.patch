@@ -1,0 +1,37 @@
+From 080711bad37202e92080dc83f66e98211c3b0054 Mon Sep 17 00:00:00 2001
+From: Xbnxb <24rtj@users.noreply.github.com>
+Date: Wed, 4 Mar 2020 17:17:23 +0300
+Subject: [PATCH] import-202003041716.lo
+
+---
+ import-202003041716.log | 18 ++----------------
+ 1 file changed, 2 insertions(+), 16 deletions(-)
+
+diff --git a/import-202003041716.log b/import-202003041716.log
+index 47d8569..a537cc6 100644
+--- a/import-202003041716.log
++++ b/import-202003041716.log
+@@ -1,16 +1,2 @@
+-echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1
+-
+-reference 'refs/heads/master' not found
+-echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1 (2)
+-
+-reference 'refs/heads/master' not found
+-echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1 (3)
+-
+-reference 'refs/heads/master' not found
+-echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1 (4)
+-
+-reference 'refs/heads/master' not found
+-echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: No more authentication methods.
+-
+-The operation couldn’t be completed. (Git error -7.)
+-Interpreting last error as: SSH connection rejected. Make sure SSH key is valid on github.com.
+\ No newline at end of file
++Cloning from git@github.com:24rtj/echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add.git
++Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1
+\ No newline at end of file
+--
+Working Copy 4.0.8
+
