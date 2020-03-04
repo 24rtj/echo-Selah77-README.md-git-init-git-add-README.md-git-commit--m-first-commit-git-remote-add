@@ -1,0 +1,16 @@
+echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1
+
+reference 'refs/heads/master' not found
+echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1 (2)
+
+reference 'refs/heads/master' not found
+echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1 (3)
+
+reference 'refs/heads/master' not found
+echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: Using SSH key ssh-rsa 4096 33:c3:26:59:c7:83:93:11:b7:24:1c:5d:49:8a:bb:d1 (4)
+
+reference 'refs/heads/master' not found
+echo-Selah77-README.md-git-init-git-add-README.md-git-commit--m-first-commit-git-remote-add: No more authentication methods.
+
+The operation couldn’t be completed. (Git error -7.)
+Interpreting last error as: SSH connection rejected. Make sure SSH key is valid on github.com.
